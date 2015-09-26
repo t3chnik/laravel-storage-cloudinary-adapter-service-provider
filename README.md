@@ -1,4 +1,4 @@
-# :package_name
+# Laravel Storage Cloudinary Adapter Service Provider
 
 This is meant to be a service provider for Laravel 5.* for Storage Cloudinary Adapter.
 
@@ -19,11 +19,6 @@ Provide apropriate values in your .env file.
 ## Contributing
 
 Contributions are **welcome** and will be fully **credited**.
-
-## Credits
-
-- [t3chnik][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
