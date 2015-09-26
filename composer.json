@@ -1,0 +1,31 @@
+{
+    "name": "t3chnik/laravel-storage-cloudinary-adapter-service-provider",
+    "description": "Laravel 5 Storage Cloudinary Adapter Service Provider",
+    "keywords": [
+        "t3chnik",
+        "LaravelStorageCloudinaryAdapterServiceProvider",
+        "Laravel", "Storage", "Flysystem", "Cloudinary", "Adapter"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "t3chnik",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0",
+        "t3chnik/flysystem-cloudinary-adapter": "*",
+        "illuminate/support": "~5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "T3chnik\\LaravelStorageCloudinaryAdapterServiceProvider\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
